@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "给电脑小白的使用指南"
+  name: "Veodra PCGuide"
   tagline: 为对计算机有兴趣的电脑初学者而编
   actions:
     - theme: brand
